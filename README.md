@@ -190,15 +190,6 @@ hobbies:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
-
-## 💖 Support My Work
-
-<div align="center">
-  <a href="https://ko-fi.com/V7V4RAK9C" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" />
-  </a>
-</div>
 
 <br/>
 
