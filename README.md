@@ -127,9 +127,6 @@ hobbies:
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karim3tef&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karim3tef&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" />
-</div>
 
 <br/>
 
