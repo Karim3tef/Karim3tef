@@ -2,21 +2,24 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */24 * * *"   # runs once per day
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Generate pacman graph
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman contribution graph
         uses: Platane/snk@v3
         with:
           github_user_name: karim3tef
-          outputs: |
-            dist/pacman-contribution-graph.svg
+          svg_out_path: dist/pacman-contribution-graph.svg
+          shape: pacman
+          theme: github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
