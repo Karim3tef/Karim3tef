@@ -139,7 +139,11 @@ hobbies:
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Karim3tef/Karim3tef/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 <br/>
@@ -153,14 +157,6 @@ hobbies:
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Karim3tef&theme=tokyonight&hide_border=true&layout=compact" />
 
-</div>
-
-<br/>
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </div>
 
 <br/>
@@ -187,13 +183,6 @@ hobbies:
 
 <br/>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-<br/>
 
 ## 🎲 Fun Fact
 
@@ -203,14 +192,6 @@ hobbies:
 > 
 > *"Did you know? The first computer bug was an actual bug - a moth found in a computer in 1947!"* 🦋
 
-</div>
-
-<br/>
-
-## 📊 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karim3tef&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
 <br/>
