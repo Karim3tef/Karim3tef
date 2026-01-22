@@ -135,27 +135,16 @@ hobbies:
 
 ## 🐍 Contribution Graph
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph.svg#gh-dark-mode-only">
-  <source srcset="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph.svg#gh-light-mode-only">
-  <img alt="pacman contribution graph"
-       src="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph.svg" />
-</picture>
-
-<br/>
-
-## 📈 Coding Activity
-
 <div align="center">
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Karim3tef&theme=tokyonight&hide_border=true&layout=compact" />
-
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph.svg#gh-dark-mode-only">
+    <source srcset="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph.svg#gh-light-mode-only">
+    <img alt="pacman contribution graph"
+         src="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph.svg" />
+  </picture>
 </div>
-
 <br/>
+
 
 
 ## 🎲 Fun Fact
