@@ -136,9 +136,10 @@ hobbies:
 ## 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph.svg">
+  <source srcset="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph.svg#gh-dark-mode-only">
+  <source srcset="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph.svg#gh-light-mode-only">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/karim3tef/karim3tef/output/pacman-contribution-graph.svg" />
 </picture>
 
 <br/>
