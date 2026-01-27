@@ -38,19 +38,6 @@ hobbies:
 
 <br/>
 
-## 💼 Current Projects & Activities
-
-<div align="center">
-
-| 🔭 **Working On** | 🌱 **Learning** | 💡 **Exploring** |
-|:---:|:---:|:---:|
-| E-Commerce Marketplace | Docker & Kubernetes | Web3 & Blockchain |
-| AI Recommendation Engine | AWS Cloud Services | GraphQL APIs |
-| Real-time Chat System | Supabase Integration | Microservices |
-
-</div>
-
-<br/>
 
 ## 🛠️ Tech Arsenal
 
