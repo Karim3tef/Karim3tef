@@ -128,8 +128,6 @@ hobbies:
 
 <div align="center">
   
-> *"Game of Thrones Night's Watch cloaks are made from IKEA rugs!"* 🛡️
-> 
 > *"Did you know? The first computer bug was an actual bug - a moth found in a computer in 1947!"* 🦋
 
 </div>
