@@ -14,10 +14,10 @@
 ```yaml
 name: Karim Atef
 located_in: Egypt
-current_focus: Marketplace Development
+current_focus: Self-development
 education: 
-  - "Software Engineering"
-  - "Artificial Intelligence"
+  - "Benha University"
+  - "Faculty of Computers and Artificial Intelligence"
 
 fields_of_interest:
   - "Full Stack Development"
@@ -29,18 +29,10 @@ currently_learning:
   - "Docker & Containerization"
   - "Supabase Backend Solutions"
   - "AWS Cloud Services"
-  - "Advanced System Design"
-
-2026_goals:
-  - "Launch my marketplace platform"
-  - "Contribute to 10+ open source projects"
-  - "Master cloud-native architecture"
-  - "Build an AI-powered SaaS product"
 
 hobbies: 
   - "Coding"
   - "Problem Solving"
-  - "Reading Tech Blogs"
   - "Gaming"
 ```
 
